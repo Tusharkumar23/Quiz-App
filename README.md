@@ -64,31 +64,27 @@ This project was created using the following technologies.
 
 ## Screenshots
 
-![img-1](https://i.ibb.co/5cT5z35/img-1-gqero4.png)
+![img-1](https://github.com/WickTech/Quizer-App/blob/main/images/1.png)
 
 ---
 
-![img-2](https://i.ibb.co/r7jv1f2/img-2-ukjdh2.png)
+![img-2](https://github.com/WickTech/Quizer-App/blob/main/images/2.png)
 
 ---
 
-![img-3](https://i.ibb.co/vd8V1SS/img-3-t6uxoj.png)
+![img-3](https://github.com/WickTech/Quizer-App/blob/main/images/3.png)
 
 ---
 
-![img-4](https://i.ibb.co/Y7mTSkS/img-4-btevir.png)
+![img-4](https://github.com/WickTech/Quizer-App/blob/main/images/4.png)
 
 ---
 
-![img-5](https://i.ibb.co/4pwZSkp/img-5-oakjx2.png)
+![img-5](https://github.com/WickTech/Quizer-App/blob/main/images/5.png)
 
 ---
 
-![img-6](https://i.ibb.co/7C0KJ4v/img-6-pqefy9.png)
-
----
-
-![img-7](https://i.ibb.co/Z24xD1P/img-7-wfrvb7.png)
+![img-6](https://github.com/WickTech/Quizer-App/blob/main/images/6.png)
 
 ## Author
 
