@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
  const firebaseConfig = {
-   apiKey: import.meta.env.VITE_apiKey,
-   authDomain: import.meta.env.VITE_authDomain,
-   projectId: import.meta.env.VITE_projectId,
-   storageBucket: import.meta.env.VITE_storageBucket,
-   messagingSenderId: import.meta.env.VITE_messagingSenderId,
-   appId: import.meta.env.VITE_appId,
+   apiKey: "AIzaSyDdqCOB2u119EzLqeVid2-UomTfjAybbGQ",
+  authDomain: "quizer-10bb1.firebaseapp.com",
+  projectId: "quizer-10bb1",
+  storageBucket: "quizer-10bb1.appspot.com",
+  messagingSenderId: "802692993338",
+  appId: "1:802692993338:web:27a6c923556f0b21f30003",
  };
 
 // Initialize Firebase
