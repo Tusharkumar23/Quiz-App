@@ -86,12 +86,6 @@ This project was created using the following technologies.
 
 ![img-6](https://github.com/WickTech/Quizer-App/blob/main/images/6.png)
 
-## Author
-
-- Portfolio: [Rishabh Verma](https://portfolio-wicktech.vercel.app/)
-- Github: [WickTech](https://github.com/WickTech)
-- Email: [rishabhverma707@gmail.com](mailto:rishabhverma707@gmail.com)
-
 ## License
 
 MIT License
